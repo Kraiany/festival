@@ -1,2 +1,4 @@
-# conference
-Responsive HTML5 Bootstrap 3 template for Event Site
+# Ukrainian Festival in Japan
+Promotion website.
+
+Permanent address: https://kraiany.github.io/festival/
