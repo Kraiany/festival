@@ -629,7 +629,7 @@ ul li {
 }
 
 @media screen and (min-width: 1101px) {
-  .mobile {
+  .mobile_only {
     visibility: hidden;
     display: none;
   }
